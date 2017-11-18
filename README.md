@@ -1,0 +1,1 @@
+# Counting the Chinese character with Python 3
